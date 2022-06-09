@@ -9,4 +9,4 @@ cd build
 cmake ..
 ```
 <!--insert a image-->
-![Image](./docs/easy_prof_example .png "easy profiler demo")
+![Image](docs/easy_prof_example.png)
